@@ -1,6 +1,10 @@
-# Ocean Storm by InsureBlox
-
 Ocean Storm is a parametric insurance solution ☂&nbsp;&nbsp;for ships 🚢 &nbsp;&nbsp;going through rough seas 🌊 &nbsp;&nbsp;based on Blockchain 🚀&nbsp;&nbsp;i.e. hazzle-free, automatic pay-outs in case of adverse weather events.
+
+## Chainlink Hackathon Fall 2021 
+
+### [Dev Post](https://devpost.com/software/insureblox-team-1)
+
+[![VIDEO_CHAINLINK_HACKATHON](https://user-images.githubusercontent.com/3600906/146059769-28fd5d20-f88d-4c87-88ef-af7a275dd499.png)](https://www.youtube.com/watch?v=nCuQ_qKTnuk)
 
 ### Get started
 
